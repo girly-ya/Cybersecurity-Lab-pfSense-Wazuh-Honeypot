@@ -64,7 +64,8 @@ network-security-lab/
 │   └── diagram.drawio.png
 ├── setup/                      # Step-by-step guides
 │   ├── pfsense-setup.md
-│   ├── wazuh-setup.md
+│   ├── wazuh-manager-setup.md
+    ├── wazuh-agent-setup.md
 │   ├── cowrie-setup.md
 │   ├── suricata-setup.md
 ├── screenshots/                # Dashboards and CLI views (optional)
