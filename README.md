@@ -61,7 +61,7 @@ network-security-lab/
 │
 ├── README.md                   # Project documentation
 ├── diagrams/                   # Network architecture diagram(s)
-│   └── diagram.png
+│   └── diagram.drawio.png
 ├── setup/                      # Step-by-step guides
 │   ├── pfsense-setup.md
 │   ├── wazuh-setup.md
