@@ -3,6 +3,17 @@
 This guide documents the steps I followed to install and configure the Wazuh Manager on Kali Linux using the official quickstart script (no Docker used).
 
 ---
+## What is a Wazuh Manager?
+
+The Wazuh Manager is the central server that receives, analyzes, and correlates security data sent by multiple Wazuh Agents. It provides:
+
+- Collection and aggregation of logs and alerts  
+- Real-time threat detection and analysis  
+- Integration with dashboards for visualization  
+- Management of agent registration and communication  
+- Automated responses to security events
+  
+---
 
 ## System Requirements
 
