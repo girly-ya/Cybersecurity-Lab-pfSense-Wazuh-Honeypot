@@ -28,7 +28,7 @@ The lab consists of the following components:
 All logs from Suricata (LAN & DMZ) and Cowrie honeypot are forwarded to **Wazuh Manager running on Kali**, where they are **correlated and visualized**.
 ## Network Architecture Diagram
 
-![Network Architecture](diagrams/lab-diagram.png)
+![Network Architecture](diagrams/diagram.drawio.png)
 
 ---
 
